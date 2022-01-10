@@ -1,9 +1,9 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyCaAVVblSVNDl2280y_Gcat9S3mfWWvsCU",
-  authDomain: "online-electronics-37187.firebaseapp.com",
-  projectId: "online-electronics-37187",
-  storageBucket: "online-electronics-37187.appspot.com",
-  messagingSenderId: "695634783166",
-  appId: "1:695634783166:web:442d668ad796673befa7ef",
+  apiKey: "AIzaSyBTMwMcpkJfqYHOPgZFLA9T2Gfu7SxkFQY",
+  authDomain: "online-electronics-442bf.firebaseapp.com",
+  projectId: "online-electronics-442bf",
+  storageBucket: "online-electronics-442bf.appspot.com",
+  messagingSenderId: "658240725887",
+  appId: "1:658240725887:web:da62889608e6f789b5b04a",
 };
 export default firebaseConfig;
